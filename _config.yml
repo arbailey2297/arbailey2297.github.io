@@ -12,7 +12,7 @@ title                    : "Andrew Remington Bailey"
 title_separator          : "-"
 name                     : &name "Andrew Remington Bailey"
 description              : &description "personal description"
-url                      : https://arbailey2297.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://arbailey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arbailey2297/arbailey.github.io"
 
