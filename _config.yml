@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Andrew Remington Bailey"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Andrew Remington Bailey"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "abailey_headshot.png"
   name             : "Andrew Remington Bailey"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Mitacs Accelerate Postdoctoral Fellow doing knowledge mobilization and project coordination with Archive/Counter-Archive. Sessional lecture teaching games and media archives at York, McMaster, and OCAD University."
   location         : "Toronto"
   employer         : "York University"
   uri              : # URL
