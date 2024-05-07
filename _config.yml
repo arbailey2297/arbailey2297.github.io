@@ -21,7 +21,7 @@ repository               : "arbailey2297/arbailey2297.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "abailey_headshot.png"
+  avatar           : "files/abailey_headshot.png"
   name             : "Andrew Remington Bailey"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
