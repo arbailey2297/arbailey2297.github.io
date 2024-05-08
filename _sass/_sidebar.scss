@@ -90,8 +90,8 @@
   }
 
   img {
-    max-width: 185px;
-    horizontal-align: center;
+    max-width: 185px; // Not sure if this made a difference. Was 175px before.
+    horizontal-align: center; // This centre align really doesn't seem to be working anywhere I want to add it.
     border-radius: 0%;
 
     @include breakpoint($large) {
