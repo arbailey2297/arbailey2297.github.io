@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary scholar, curator, and artist interested in the relationship between videogame art and history. I am currently a Mitacs Accelerate Postdoctoral Fellow with the SSHRC Partnership Grant Project ["Archive/Counter-Archive"](https://counterarchive.ca), where I research hybrid media platforms such as Manifold and VUCAVU and conduct knowledge mobilization work.
+I am an interdisciplinary scholar, curator, and artist interested in the relationship between videogames, art, and history. I have a PhD in Art History and Visual Culture from York University (Toronto), with a dissertation focused on how videogames were produced, defined, and exhibited as art throughout the 2000s and 2010s. I am currently a Mitacs Accelerate Postdoctoral Fellow with the SSHRC Partnership Grant Project ["Archive/Counter-Archive"](https://counterarchive.ca), where I research the knowledge mobilization utility of hybrid media platforms such as Manifold and VUCAVU in the context of Canadian short film and experimental cinema. This fall, I will start a SSHRC Postdoctoral Fellowship with the Technoculture, Art, and Games Centre at Concordia University with a project focused on producing pedagogically oriented digital archives of Canadian independent game development. I also work as a sessional instructor at OCAD University, McMaster University, and York University, teaching various courses related to game studies, critical archival studies, communications, film and media studies, and art history.
 
 🎮 My Current Research
 ======
