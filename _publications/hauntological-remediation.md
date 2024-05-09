@@ -1,7 +1,7 @@
 ---
 title: "Hauntological remediation within P.T. and Resident Evil 7: The Beginning Hour"
 collection: publications
-permalink: http://www.firstpersonscholar.com/hauntological-remediation/
+permalink: /publications/hauntological-remediation/
 excerpt: 'This is a short essay written for the middle-state academic blog <i>First Person Scholar</i> on the use of nostalgic technologies and retro aesthetics within two, at the time, relatively recent first-person horror videogames.'
 date: 2018-07-18
 venue: 'First Person Scholar'
