@@ -1,5 +1,5 @@
 ---
-title: "Hauntological remediation within P.T. and Resident Evil 7: The Beginning Hour"
+title: "Critical Compilation: Pathologic"
 collection: publications
 permalink: /publication/cc-pathologic
 excerpt: 'This is a short essay written for the middle-state academic blog <i>First Person Scholar</i> on the use of nostalgic technologies and retro aesthetics within two, at the time, relatively recent first-person horror videogames.'
