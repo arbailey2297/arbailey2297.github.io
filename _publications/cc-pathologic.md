@@ -2,7 +2,7 @@
 title: "Critical Compilation: Pathologic"
 collection: publications
 permalink: /publication/cc-pathologic
-excerpt: 'This article was written for the academic game criticism website <i>Critical Distance</i> and functions as a literature review for scholarly and journalistic articles written about Ice Pick Lodge's survival game <i>Pathologic</i> (2005).'
+excerpt: 'This article was written for the academic game criticism website <i>Critical Distance</i> and functions as a literature review for scholarly and journalistic articles written about Ice Pick Lodge's survival game Pathologic (2005).'
 date: 2018-07-18
 venue: 'First Person Scholar'
 paperurl: 'http://www.firstpersonscholar.com/hauntological-remediation/'
