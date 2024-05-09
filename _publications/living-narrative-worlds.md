@@ -1,7 +1,7 @@
 ---
 title: "Living Narrative Worlds: Assemblage and Multistability within Ian Cheng’s Emissaries trilogy"
 collection: publications
-permalink: /publication/living-narrative-worlds
+permalink: /publications/living-narrative-worlds
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2021
 venue: 'Peter Lang Inc'
