@@ -2,7 +2,7 @@
 title: "Critical Compilation: Pathologic"
 collection: publications
 permalink: /publication/cc-pathologic
-excerpt: ''
+excerpt: 'This is a short essay written for the academic games journalism site <i>Critical Distance</i> on the 2005 survival game Pathologic developed by Ice Pick Lodge Games.'
 date: 2020-07-01
 venue: 'First Person Scholar'
 paperurl: 'https://critical-distance.com/2020/07/01/pathologic/'
