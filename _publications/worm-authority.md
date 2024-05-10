@@ -1,5 +1,5 @@
 ---
-title: "“Authority of the worm: Examining parasitism within INSIDE and Upstream Color."
+title: "Authority of the worm: Examining parasitism within INSIDE and Upstream Color."
 collection: publications
 permalink: /publication/worm-authority
 excerpt: 'This is a paper written about how parasitism functions within INSIDE and Upstream Color</i>.'
