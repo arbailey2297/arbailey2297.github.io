@@ -9,7 +9,7 @@ redirect_from:
 
 I am an interdisciplinary scholar, curator, and artist interested in the relationship between videogames, art, and history. 
 
-I have a [PhD in Art History and Visual Culture](https://www.yorku.ca/gradstudies/ahvc/programs/phd/) from York University (Toronto), with a [dissertation focused on how videogames were produced, defined, and exhibited as art throughout the 2000s and 2010s](https://yorkspace.library.yorku.ca/items/e503fb54-acbd-4647-b9f1-199af6cb151d). 
+I have a PhD in [Art History and Visual Culture](https://www.yorku.ca/gradstudies/ahvc/programs/phd/) from York University (Toronto), with a dissertation focused on [how videogames were produced, defined, and exhibited as art throughout the 2000s and 2010s](https://yorkspace.library.yorku.ca/server/api/core/bitstreams/79982f61-383e-4dd8-b02f-02d349f093c3/content). 
 
 I am currently a Mitacs Accelerate Postdoctoral Fellow with the SSHRC Partnership Grant Project ["Archive/Counter-Archive"](https://counterarchive.ca), where I research the knowledge mobilization utility of hybrid media platforms such as Manifold and VUCAVU in the context of Canadian short film and experimental cinema. As part of this postdoctoral work, I frequently engage in scholarly event coordination, curatorial programming, and grant writing.
 
