@@ -1,6 +1,6 @@
 ---
 title: "Design and Art Direction"
-excerpt: "A selection of promotional assets (posters, slides, social media content, etc.) that I have designed or provided art direction for.<br/><img src='/images/500x300.png'>"
+excerpt: "A selection of promotional assets (posters, slides, social media content, etc.) that I have designed or provided art direction for.<br/><img src='/images/Archival-futures_promo-final.png'>"
 collection: portfolio
 ---
 
