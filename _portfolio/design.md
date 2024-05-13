@@ -1,5 +1,5 @@
 ---
-title: "Design and Art Direction"
+title: "📐Design and Art Direction"
 excerpt: "A selection of promotional assets (posters, slides, social media content, etc.) that I have designed or provided art direction for.<br/><img src='/images/Archival-futures_promo-final.png' width='400'/> <img src='/images/GAVA_square_ACA-website_800_2.png' width='400'/>"
 collection: portfolio
 ---
