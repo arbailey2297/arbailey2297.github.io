@@ -1,6 +1,6 @@
 ---
-title: "Digital Art"
-excerpt: "A selection of digital art projects and experiments that I have made while teaching myself new art and game development programs.<br/><img src='/images/junktown.png' width='450'/><img src='/images/sewar-sketch_crop.png' width='450'/> <br/><img src='/images/lowpoly-mushroom_sketchbook_02.png' width='900'/>"
+title: "👨‍💻Digital Art"
+excerpt: "A selection of digital art projects and experiments that I have made while teaching myself new art and game development programs.<br/><img src='/images/junktown.png' width='450'/><img src='/images/sewar-sketch_crop_02.png' width='450'/> <br/><img src='/images/lowpoly-mushroom_sketchbook_02.png' width='900'/>"
 collection: portfolio
 ---
 
