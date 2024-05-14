@@ -1,5 +1,5 @@
 ---
-title: "Edit Wands Always: Experimentation, Modding, and Metagaming in Noita (forthcoming)"
+title: "🧙‍♂️Edit Wands Always: Experimentation, Modding, and Metagaming in Noita (forthcoming)"
 collection: publications
 permalink: /publication/edit-wands-always
 excerpt: 'This is a paper written about .'
