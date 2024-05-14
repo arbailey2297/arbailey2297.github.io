@@ -1,5 +1,5 @@
 ---
-title: "A Devious Archive: The Affective Historicity and Paratextual Russian Folkloristics of Black Book"
+title: "👹A Devious Archive: The Affective Historicity and Paratextual Russian Folkloristics of Black Book"
 collection: publications
 permalink: /publication/devious-archive
 excerpt: 'This is a paper written about .'
