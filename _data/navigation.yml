@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+    #url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -16,7 +16,7 @@ main:
     #url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/ABailey_CV_May24.pdf
     
-  - title: "Test"
-    url: /markdown/
+  #- title: "Test"
+    #url: /markdown/
