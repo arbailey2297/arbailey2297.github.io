@@ -1,5 +1,5 @@
 ---
-title: "Factional History: Tracing the Cultural Coding of Total War: Warhammer 3’s “Immortal Empires” Map"
+title: "🗺️Factional History: Tracing the Cultural Coding of Total War: Warhammer 3’s “Immortal Empires” Map"
 collection: publications
 permalink: /publication/factional-history
 excerpt: 'This is a paper written about .'
