@@ -1,5 +1,5 @@
 ---
-title: "Stealth Algorithms: Hito Steyerl’s Encoding Of Metal Gear into her Factory Of The Sun"
+title: "⚙️ Stealth Algorithms: Hito Steyerl’s Encoding Of Metal Gear into her Factory Of The Sun"
 collection: publications
 permalink: /publication/stealth-algorithms
 excerpt: 'This is a paper written about .'
