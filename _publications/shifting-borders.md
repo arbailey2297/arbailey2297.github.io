@@ -2,7 +2,7 @@
 title: "🚶🏻‍♀️ Shifting Borders: Walking Simulators, Artgames, and the Categorical Compulsion of Gaming Discourse"
 collection: publications
 permalink: /publication/shifting-borders
-excerpt: 'This is a paper written about the walking sim genre through the lens of game studies scholarship on art games and game art. The paper directly compares Bill Viola's game art installation <i>The Night Journey</i> with Connor Sherlock's "Walking Simulator A Month Club."'
+excerpt: 'This is a paper written about the walking sim genre through the lens of game studies scholarship on art games and game art. The paper directly compares Bill Viola's game art installation <i>The Night Journey</i> with Connor Sherlock's &quot;Walking Simulator A Month Club.&quot;'
 date: 2019-08-16
 venue: 'Press Start Journal'
 paperurl: 'https://press-start.gla.ac.uk/index.php/press-start/article/view/135'
