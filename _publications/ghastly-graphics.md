@@ -1,5 +1,5 @@
 ---
-title: "Ghastly Graphics: Tool Fandom, Bad Cinema, and the Haunted PS1 Game Development Community"
+title: "👻 Ghastly Graphics: Tool Fandom, Bad Cinema, and the Haunted PS1 Game Development Community"
 collection: publications
 permalink: /publication/ghastly-graphics
 excerpt: 'This is a paper written about .'
