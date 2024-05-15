@@ -1,5 +1,5 @@
 ---
-title: "Demade by the Blood: Bloodborne PSX at a crossroads of horror fandoms (forthcoming)"
+title: "🩸 Demade by the Blood: Bloodborne PSX at a crossroads of horror fandoms (forthcoming)"
 collection: publications
 permalink: /publication/bloodborne-psx
 excerpt: 'This is a paper written about .'
