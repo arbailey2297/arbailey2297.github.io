@@ -1,5 +1,5 @@
 ---
-title: "Critical Compilation: Pathologic"
+title: "😷 Critical Compilation: Pathologic"
 collection: publications
 permalink: /publication/cc-pathologic
 excerpt: 'This is a literature review article written for the academic games journalism site <i>Critical Distance</i> on the 2005 survival game <i>Pathologic</i> developed by Ice-Pick Lodge Games.'
