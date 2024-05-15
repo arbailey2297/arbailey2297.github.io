@@ -2,7 +2,7 @@
 title: "🐛 Authority of the Worm: Examining Parasitism within INSIDE and Upstream Color."
 collection: publications
 permalink: /publication/worm-authority
-excerpt: 'This is a paper written about how parasitism functions within Playdead&apos;s independent platform adventure game <8>INSIDE</i> and Shane Curruth&apos;s science fiction mystery art film <i>Upstream Color</i>.'
+excerpt: 'This is a paper written about how parasitism functions within Playdead&apos;s independent platform adventure game <i>INSIDE</i> and Shane Curruth&apos;s science fiction mystery art film <i>Upstream Color</i>.'
 date: 2018-01-02
 venue: 'Metacritic Journal for Comparative Studies and Literature'
 paperurl: 'https://doi.org/10.24193/mjcst.2018.6.03'
