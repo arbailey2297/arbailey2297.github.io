@@ -2,7 +2,7 @@
 title: "👹A Devious Archive: The Affective Historicity and Paratextual Russian Folkloristics of Black Book"
 collection: publications
 permalink: /publication/devious-archive
-excerpt: 'This is a paper written about .'
+excerpt: 'This chapter delves into the diverse folkloristic archiving surrounding the Slavic and Russian mythology-themed RPG <i>Black Book</i> (Morteshka, 2021). It explores how the artifact-like qualities of historical video games create authentic heritage experiences for players despite potential historical inaccuracies. I draw upon recent scholarship on videogame archives to compare the influence of museums and academic institutions consulted by Black Book&apos;s developers with amateur art historical analyses posted in the game's Steam forums.'
 date: 2024-12-31
 venue: 'Eurasian National Histories and Heritages in Videogames'
 paperurl: ''
