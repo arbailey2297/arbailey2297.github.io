@@ -1,5 +1,5 @@
 ---
-title: "Half-light Histories: Exploring the Experimental Realism of Kentucky Route Zero and Disco Elysium (forthcoming)"
+title: "💡 Half-light Histories: Exploring the Experimental Realism of Kentucky Route Zero and Disco Elysium (forthcoming)"
 collection: publications
 permalink: /publication/half-light-histories
 excerpt: 'This is a paper written about .'
