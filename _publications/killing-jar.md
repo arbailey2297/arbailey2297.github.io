@@ -2,7 +2,7 @@
 title: "🦋 The Museum and the Killing Jar: How Animal Crossing’s Insects Reveal Videogames’ Object Afterlife"
 collection: publications
 permalink: /publication/killing-jar
-excerpt: 'This is a paper written about how collecting functions with the Animal Crossing series and how the mechanic is related to the inclusion of an in-game museum. I then use this virtual museum as a way of looking at how the history of insect collecting informed Animal Crossing's collection mechanics and how the game can be used to look at how videogames are collected within real-world museums.'
+excerpt: 'This is a paper written about how collecting functions with the Animal Crossing series and how the mechanic is related to the inclusion of an in-game museum. I then use this virtual museum as a way of looking at how the history of insect collecting informed Animal Crossing&apos;s collection mechanics and how the game can be used to look at how videogames are collected within real-world museums.'
 date: 2020-01-01
 venue: 'Loading: The Journal of the Canadian Game Studies Association'
 paperurl: 'https://doi.org/10.7202/1075260ar'
