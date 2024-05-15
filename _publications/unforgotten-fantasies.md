@@ -1,5 +1,5 @@
 ---
-title: "Unforgotten Fantasies: Romantic Play within the Game Art of Angela Washko and Nina Freeman"
+title: "💖 Unforgotten Fantasies: Romantic Play within the Game Art of Angela Washko and Nina Freeman"
 collection: publications
 permalink: /publication/unforgotten-fantasies
 excerpt: 'This is a short essay written for the middle-state academic blog <i>First Person Scholar</i> on the autobiographical creative practices of art game developer Nina Freeman and game artist/scholar Angela Washko.'
@@ -10,3 +10,5 @@ citation: 'Bailey, A. (26 June 2019). &quot;Unforgotten fantasies: Romantic play
 ---
 
 This is a short essay written for the middle-state academic blog <i>First Person Scholar</i> on the autobiographical creative practices of art game developer Nina Freeman and game artist/scholar Angela Washko.
+
+Keywords: game art, art games, Angela Washko, Nina Freeman, Heroines with Baggage, Cibele, autobiographical art
