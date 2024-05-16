@@ -9,20 +9,20 @@ redirect_from:
 
 I am an interdisciplinary scholar, curator, and artist interested in the relationship between videogames, art, and history. 
 
-I have a PhD in [Art History and Visual Culture](https://www.yorku.ca/gradstudies/ahvc/programs/phd/) from York University (Toronto), with a dissertation focused on [how videogames were produced, defined, and exhibited as art throughout the 2000s and 2010s](https://yorkspace.library.yorku.ca/server/api/core/bitstreams/79982f61-383e-4dd8-b02f-02d349f093c3/content). 
+I have a PhD in Art History and Visual Culture from York University (Toronto), with a dissertation focused on [how videogames were produced, defined, and exhibited as art throughout the 2000s and 2010s](https://yorkspace.library.yorku.ca/server/api/core/bitstreams/79982f61-383e-4dd8-b02f-02d349f093c3/content). 
 
 I am currently a Mitacs Accelerate Postdoctoral Fellow with the SSHRC Partnership Grant Project ["Archive/Counter-Archive"](https://counterarchive.ca), where I research the knowledge mobilization utility of hybrid media platforms such as [Manifold](https://manifoldapp.org/) and [VUCAVU](https://vucavu.com/en/home) in the context of Canadian short film and experimental cinema. As part of this postdoctoral work, I frequently engage in scholarly event coordination, curatorial programming, and grant writing.
 
-This fall, I will start a two-year SSHRC Postdoctoral Fellowship with the Technoculture, Art, and Games Centre at Concordia University with a project focused on producing pedagogically oriented digital archives of Canadian independent game development. 
+This fall, I will start a two-year SSHRC Postdoctoral Fellowship with the [Technoculture, Art, and Games Centre](https://tag.hexagram.ca/) at Concordia University with a project focused on producing pedagogically oriented digital archives of Canadian independent game development. 
 
 I also work as a sessional instructor at OCAD University, McMaster University, and York University, teaching various courses related to game studies, critical archival studies, communications, film and media studies, and art history.
 
 🎮 My Current Research
 ======
 My current research fits loosely into three distinct categories
-* Producing a digital archive and corresponding monograph focused on Maddy Thorson, the Canadian independent game developer best known for the award-winning platformer <i>Celeste</i> (EXOK Games, 2018).
+* Producing a digital archive and corresponding monograph focused on [Maddy Thorson](https://en.wikipedia.org/wiki/Maddy_Thorson), the Canadian independent game developer best known for the award-winning platformer <i>Celeste</i> (EXOK Games, 2018).
 * Writing articles on [the Haunted PS1 game development community](https://the-official-haunted-ps1.fandom.com/wiki/The_Official_Haunted_PS1_Wiki) and the nostalgic low-poly horror aesthetics that they produce. This research has largely been conducted with my collaborator [Patrick Dolan](https://www.linkedin.com/in/patrick-r-dolan/) (York University).
-* Exploring the various ways that videogames can be used as a unique form of digital archive through examples such as historical folk horror games and playable comic collections.
+* Exploring the various ways that videogames can be used as a unique form of digital archive through examples such as [historical folk horror games](https://arbailey2297.github.io/publication/devious-archive) and [playable comic collections](https://ppcrotty.itch.io/p3dva).
 
 🗂️ My Professional Background
 ======
