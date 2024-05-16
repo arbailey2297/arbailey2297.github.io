@@ -20,8 +20,8 @@ I also work as a sessional instructor at OCAD University, McMaster University, a
 🎮 My Current Research
 ======
 My current research fits loosely into three distinct categories
-* Collecting archival material and producing a digital archive and corresponding monograph focused on Maddy Thorson, the Canadian independent game developer best known for the award-winning platformer <i>Celeste</i>(EXOK Games, 2018).
-* Studying and writing articles and book chapters on the Haunted PS1 game development community and the low-poly horror aesthetics that they typically produce. This research has largely been conducted with my collaborator Patrick Dolan (York University).
+* Producing a digital archive and corresponding monograph focused on Maddy Thorson, the Canadian independent game developer best known for the award-winning platformer <i>Celeste</i> (EXOK Games, 2018).
+* Writing articles on [the Haunted PS1 game development community](https://the-official-haunted-ps1.fandom.com/wiki/The_Official_Haunted_PS1_Wiki) and the nostalgic low-poly horror aesthetics that they produce. This research has largely been conducted with my collaborator [Patrick Dolan](https://www.linkedin.com/in/patrick-r-dolan/) (York University).
 * Exploring the various ways that videogames can be used as a unique form of digital archive through examples such as historical folk horror games and playable comic collections.
 
 🗂️ My Professional Background
