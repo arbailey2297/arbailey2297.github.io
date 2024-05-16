@@ -1,5 +1,5 @@
 ---
-title: "🌏 Fantastic Places And Where To Find Them: Pseudo-Indexical Realities Within Video Games And Game Art"
+title: "🔎 Fantastic Places And Where To Find Them: Pseudo-Indexical Realities Within Video Games And Game Art"
 collection: publications
 permalink: /publication/fantastic-places
 excerpt: 'This is a paper written about the ecocritical VR installation work of media artist Jakob Kudsk Steensen. In it, I primarily focus on a piece titled <i>Primal Tourism</i> through the lens of Alenda Chang&apos;s arguments on ecomimetic videogames.'
