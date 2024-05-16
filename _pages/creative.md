@@ -4,6 +4,7 @@ title: "Portfolio"
 author_profile: true
 ---
 
+<br>
 # 🖼️ Curation
 
 Below are photographs from a recent exhibition I curated at <b>PAVED Arts</b> in Saskatoon in Summer 2023 titled <b><i>Object Gardens</i></b>. Participating artists included Guggenheim fellow <b>Peter Burr</b> (USA), 2018 EQ Bank Emerging Digital Artist Award winner <b>Anna Eyler</b> and her partner and collaborator Nicolas Lapointe (CAD), and Venice Biennale-presenting artist <b>Jakob Kudsk Steensen</b> (DNK).<br/>
