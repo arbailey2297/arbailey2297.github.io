@@ -1,5 +1,5 @@
 ---
-title: "👹A Devious Archive: The Affective Historicity and Paratextual Russian Folkloristics of Black Book"
+title: "👹A Devious Archive: The Affective Historicity and Paratextual Russian Folkloristics of Black Book (forthcoming)"
 collection: publications
 permalink: /publication/devious-archive
 excerpt: 'In this chapter, I explore the diverse folkloristic archiving in the Slavic mythology-themed RPG <i>Black Book</i> and how it creates authentic heritage experiences despite historical inaccuracies. Comparing the influence of formal institutions with amateur analyses on Steam forums, I argue that historical horror games like Black Book act as "devious archives," offering subjective and interactive connections to history.'
