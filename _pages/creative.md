@@ -1,5 +1,5 @@
 ---
-permalink: /creative
+permalink: /creative/
 title: "Portfolio"
 author_profile: true
 ---
