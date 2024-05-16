@@ -24,3 +24,10 @@ A selection of promotional assets (posters, slides, social media content, etc.) 
 These are a couple of posters that I created for screenings that were curated by [<b>ANGURA!</b>](https://angura.tumblr.com/), a Japanese experimental art/film collective that programs screenings/exhibitions in Toronto, Winnipeg, and Montreal.
 
 <img src='/images/film-fort-posters.png' width='764'/><br/>
+
+# 👨‍💻Digital Art"
+A selection of digital studies and experiments that I have made while teaching myself new art and game development programs.<br/>
+
+<img src='/images/junktown.png' width='382'/>
+<img src='/images/sewar-sketch_crop_02.png' width='382'/><br/>
+<img src='/images/lowpoly-mushroom_sketchbook_02.png' width='764'/>
