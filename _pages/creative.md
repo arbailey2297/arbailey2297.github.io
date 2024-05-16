@@ -1,4 +1,4 @@
-🖼️ Curation
+#### 🖼️ Curation
 
 A selection of media art exhibitions that I have curated.<br/>
 
