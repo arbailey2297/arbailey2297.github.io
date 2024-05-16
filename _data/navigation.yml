@@ -14,11 +14,11 @@ main:
         
   #- title: "Blog Posts"
     #url: /year-archive/
-
- - title: "Portfolio"
-    url: /creative/
     
   - title: "CV"
     url: /files/ABailey_CV_May24.pdf
+
+  - title: "Portfolio"
+    url: /creative/
     
  
