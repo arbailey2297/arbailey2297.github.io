@@ -3,7 +3,7 @@ permalink: /creative/
 title: "Portfolio"
 author_profile: true
 ---
-
+This page represents my creative practice and contains a small selection of my curatorial, graphic design, digital art, game development, and printmaking work.
 <br>
 # 🖼️ Curation
 
