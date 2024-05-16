@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "📽️ FILM4711 - Issues in Film Historiography"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/FILM-411
+venue: "York University, Department of Cinema and Media Arts"
+date: 2023-09-01
+location: "Toronto, Canada"
 ---
 
-This is a description of a teaching experience. 
+A fourth-year undergraduate in-person seminar focused on the politics of film archiving. Assessment methods included reading presentations, graded discussion boards, a project proposal, a Zotero-based annotated bibliography, and a final research production project (zine, online exhibition, podcast, or video essay).
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Click here to download a PDF copy of the course's syllabus.
