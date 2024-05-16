@@ -1,5 +1,5 @@
 ---
-title: "🗺️Factional History: Tracing the Cultural Coding of Total War: Warhammer 3’s “Immortal Empires” Map"
+title: "🗺️ Factional History: Tracing the Cultural Coding of Total War: Warhammer 3’s “Immortal Empires” Map (forthcoming)"
 collection: publications
 permalink: /publication/factional-history
 excerpt: 'In early 2022, Creative Assembly released <i>Total War: Warhammer 3</i>, introducing new factions inspired by Russian, Chinese, and Mongolian empires and a new game mode, "Immortal Empires," which connected all previous factions into a cohesive world. This chapter explores how these elements synthesize historical gaming and video game history, examining the implications of ethnic coding and racial representations within the game, and the challenges of mapping a fantasy world to real-world cultures.'
