@@ -30,7 +30,7 @@ A selection of digital studies and experiments that I have made while teaching m
 
 <img src='/images/junktown.png' width='382'/><img src='/images/sewar-sketch_crop_02.png' width='382'/><br/><img src='/images/lowpoly-mushroom_sketchbook_02.png' width='764'/><img src='/images/maximalfantasy_crop.png' width='382'/><img src='/images/chess-crop_01.png' width='382'/><br>
 
-✍️Drawings, Prints, and Zines
-A selection of analog/paper-based drawings, silkscreen prints, and zines that I have created.
+# ✍️Drawings, Prints, and Zines
+A selection of analog/paper-based drawings, silkscreen prints, and zines that I have created.<br>
 
 <br/><img src='/images/avatar-of-moro.png' width='382'/><img src='/images/bibendum_crop.png' width='382'/><br/><img src='/images/tomb-raider.jpg' width='764'/>
