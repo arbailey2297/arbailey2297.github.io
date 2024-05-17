@@ -19,7 +19,7 @@ Below is a photograph of a recent exhibition I coordinated and produced at the [
 
 A selection of promotional assets (posters, slides, social media content, etc.) that I have either directly designed or provided art direction for as a part of my time working as the Knowledge Mobilization Officer for the SSHRC Partnership Grant project [<b>Archive/Counter-Archive</b>](https://counterarchive.ca/welcome).<br/>
 
-<img src='/images/Archival-futures_promo-final.png' width='382'/><img src='/images/GAVA_square_ACA-website_800_2.png' width='382'/> <br/><img src='/images/Outer Worlds _1920x1080.png' width='764'/><br/>
+<img src='/images/Archival-futures_promo-final.png' width='382'/><img src='/images/GAVA_square_ACA-website_800_2.png' width='382'/> <br/><img src='/images/Outer Worlds _1920x1080.png' width='764'/><br/><br/><img src='/images/ACA_student-mixer.jpg' width='764'/><br/>
 
 These are a couple of posters that I created for screenings that were curated by [<b>ANGURA!</b>](https://angura.tumblr.com/), a Japanese experimental art/film collective that programs screenings/exhibitions in Toronto, Winnipeg, and Montreal.
 
