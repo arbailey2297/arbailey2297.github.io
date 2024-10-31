@@ -3,7 +3,7 @@ permalink: /creative/
 title: "Portfolio"
 author_profile: true
 ---
-*This page represents my ongoing creative practice and contains a small selection of my curatorial, graphic design, digital art, game development, and printmaking work.
+*This page represents my ongoing creative practice and contains a small selection of my curatorial, graphic design, digital art, and game development work.
 <br><br>
 # 🖼️ Curation
 
@@ -30,7 +30,9 @@ A selection of digital studies and experiments that I have made while teaching m
 
 <img src='/images/junktown.png' width='382'/><img src='/images/sewar-sketch_crop_02.png' width='382'/><br/><img src='/images/lowpoly-mushroom_sketchbook_02.png' width='764'/><br/><img src='/images/maximalfantasy_crop_01.png' width='382'/><img src='/images/chess-crop_01.png' width='382'/><br>
 
+<!-- This is commented out. 
 # ✍️Drawings, Prints, and Zines
 A selection of analog/paper-based drawings, silkscreen prints, and zines that I have created.<br/>
 
-<img src='/images/avatar-of-moro.png' width='382'/><img src='/images/bibendum_crop.png' width='382'/><br/><img src='/images/tomb-raider.jpg' width='764'/>
+<img src='/images/avatar-of-moro.png' width='382'/><img src='/images/bibendum_crop.png' width='382'/><br/><img src='/images/tomb-raider.jpg' width='764'/> 
+-->
