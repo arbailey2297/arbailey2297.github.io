@@ -1,5 +1,5 @@
 ---
-title: "💡 Half-light Histories: Exploring the Experimental Realism of Kentucky Route Zero and Disco Elysium (forthcoming)"
+title: "💡 Half-light Histories: Exploring the Experimental Realism of Kentucky Route Zero and Disco Elysium"
 collection: publications
 permalink: /publication/half-light-histories
 excerpt: 'In this chapter, I examine how <i>Kentucky Route Zero</i> and <i>Disco Elysium</i> metatextually represent the histories of computing and videogames, using experimental storytelling to highlight their origins. By analyzing these narratives, I argue that videogames have the potential to remediate their own histories, linking them to broader histories of art and technology.'
