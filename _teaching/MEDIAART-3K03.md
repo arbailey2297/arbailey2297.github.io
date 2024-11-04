@@ -1,5 +1,5 @@
 ---
-title: "👾 MEDIAART 3KO3 - Game Studies"
+title: "👾 MEDIAART 3KO3 - Game Studies (Fall 2023)"
 collection: teaching
 type: "In-person undergraduate lecture"
 permalink: /teaching/MEDIAART-3K03
