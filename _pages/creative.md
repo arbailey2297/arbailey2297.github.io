@@ -11,7 +11,7 @@ Below are photographs from a recent exhibition I curated at <b>PAVED Arts</b> in
 
 <img src='/images/Object-Gardens_installation_01.png' width='764'/><br/><img src='/images/Object-Gardens_installation_02.png' width='764'/><br/>
 
-Below is a photograph of a recent exhibition I coordinated and produced at the [<b>Archives of Ontario</b>](https://www.archives.gov.on.ca/en/index.aspx) in Summer 2023 titled [<b><i>Margaret Perry: A Life in Film</i></b>](https://counterarchive.ca/margaret-perry-life-film-exhibit-archives-ontario). The traveling exhibition was originally put on at the <b>Nova Scotia Archives</b> and curated by <b>Jennifer VanerBurgh</b> (St. Mary's University) and <b>Carla Taunton</b> (NSCAD), and I collaborated with them to recreate it at the Archives of Ontario as a part of that year's Congress of the Social Sciences and Humanities at York University. [<b>Click here for more info on the Archive/Counter-Archive website.</b>](https://counterarchive.ca/margaret-perry-life-film-exhibit-archives-ontario)
+Below is a photograph of a recent exhibition I coordinated and produced at the [<b>Archives of Ontario</b>](https://www.archives.gov.on.ca/en/index.aspx) in Summer 2023 titled [<b><i>Margaret Perry: A Life in Film</i></b>](https://counterarchive.ca/margaret-perry-life-film-exhibit-archives-ontario). The traveling exhibition was originally put on at the <b>Nova Scotia Archives</b> and curated by <b>Jennifer VanerBurgh</b> (St. Mary's University) and <b>Carla Taunton</b> (NSCAD), and I collaborated with them to recreate it at the Archives of Ontario as a part of that year's Congress of the Social Sciences and Humanities at York University.
 
 <img src='/images/margaret-perry-aoo.png' width='764'/><br><br>
 
