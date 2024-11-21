@@ -24,7 +24,7 @@ My current research fits loosely into three distinct categories
 
 🗂️ My Professional Background
 ======
-Outside of postdoctoral and teaching work, I also have significant work experience in the following areas:
+Outside of my scholarly research and teaching work, I also have significant work experience in the following areas:
 * Arts administration, programming, and exhibition design with several Toronto commercial galleries and artist-run centres
 * Editing for multiple academic arts/media journals
 * Studio assistance for a professional visual artist, helping to prepare work for international solo exhibitions at commercial art galleries
