@@ -7,7 +7,7 @@ author_profile: true
 <br><br>
 # 🖼️ Curation
 
-Below are photographs from a recent exhibition I curated at <b>PAVED Arts</b> in Saskatoon in Summer 2023 titled [<b><i>Object Gardens</i></b>](https://www.pavedarts.ca/programming/object-gardens/). Participating artists included Guggenheim fellow [<b>Peter Burr</b>](https://www.peterburr.org/) (USA), 2018 EQ Bank Emerging Digital Artist Award winner [<b>Anna Eyler</b>](http://aenl.net/) and her partner and collaborator [<b>Nicolas Lapointe</b>](http://aenl.net/) (CAD), and Venice Biennale-presenting artist [<b>Jakob Kudsk Steensen</b>](https://www.jakobsteensen.com/) (DNK).<br/> [Click here to see more photos and read the curatorial essay for the exhibition that was published in _PAVED Meant Vol 5_(2024).](files/object-gardens essay.pdf)
+Below are photographs from a recent exhibition I curated at <b>PAVED Arts</b> in Saskatoon in Summer 2023 titled [<b><i>Object Gardens</i></b>](https://www.pavedarts.ca/programming/object-gardens/). Participating artists included Guggenheim fellow [<b>Peter Burr</b>](https://www.peterburr.org/) (USA), 2018 EQ Bank Emerging Digital Artist Award winner [<b>Anna Eyler</b>](http://aenl.net/) and her partner and collaborator [<b>Nicolas Lapointe</b>](http://aenl.net/) (CAD), and Venice Biennale-presenting artist [<b>Jakob Kudsk Steensen</b>](https://www.jakobsteensen.com/) (DNK).<br/> [Click here to see more photos and read the curatorial essay for the exhibition that was published in PAVED Meant Vol 5(2024).](https://arbailey2297.github.io/files/object-gardens%20essay.pdf))
 
 <img src='/images/Object-Gardens_installation_01.png' width='764'/><br/><img src='/images/Object-Gardens_installation_02.png' width='764'/><br/>
 
