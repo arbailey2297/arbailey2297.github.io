@@ -9,7 +9,7 @@ redirect_from:
 
 I am an interdisciplinary scholar, curator, and artist interested in the relationship between videogames, art, and history. 
 
-I am currently a SSHRC Postdoctoral Fellowship with the [Technoculture, Art, and Games Centre](https://tag.hexagram.ca/) at Concordia University with a project focused on producing pedagogically oriented digital archives of Canadian independent game development. 
+I am currently a SSHRC Postdoctoral Fellowship with the [Technoculture, Art, and Games Research Lab](https://tag.hexagram.ca/) at Concordia University with a project focused on producing pedagogically oriented digital archives of Canadian independent game development and game art. 
 
 I also work as a sessional instructor at OCAD University, McMaster University, and York University, teaching various courses related to game studies, critical archival studies, communications, film and media studies, and art history.
 
@@ -20,16 +20,16 @@ I have a PhD in Art History and Visual Culture from York University (Toronto), w
 My current research fits loosely into three distinct categories
 * Producing a digital archive and corresponding monograph focused on [Maddy Thorson](https://en.wikipedia.org/wiki/Maddy_Thorson), the Canadian independent game developer best known for the award-winning platformer <i>Celeste</i> (EXOK Games, 2018).
 * Writing articles on [the Haunted PS1 game development community](https://the-official-haunted-ps1.fandom.com/wiki/The_Official_Haunted_PS1_Wiki) and the nostalgic low-poly horror aesthetics that they produce. This research has largely been conducted with my collaborator [Patrick Dolan](https://www.linkedin.com/in/patrick-r-dolan/) (York University).
-* Exploring the various ways that videogames can be used as a unique form of digital archive through examples such as [historical folk horror games](https://arbailey2297.github.io/publication/devious-archive) and [playable comic collections](https://ppcrotty.itch.io/p3dva).
+* Exploring the various ways that videogames relate to real-world archives and art historical artifacts through examples such as [historical folk horror games](https://arbailey2297.github.io/publication/devious-archive).
 
 🗂️ My Professional Background
 ======
 Outside of postdoctoral and teaching work, I also have significant work experience in the following areas:
 * Arts administration, programming, and exhibition design with several Toronto commercial galleries and artist-run centres
 * Editing for multiple academic arts/media journals
-* Print production in commercial textile screenprinting and fine art giclée printing studios
 * Studio assistance for a professional visual artist, helping to prepare work for international solo exhibitions at commercial art galleries
 * Freelance graphic and web design, creating event posters, album covers, book layouts, websites, t-shirt designs, editorial illustrations, etc.
+* Print production in commercial textile screenprinting and fine art giclée printing studios
 
 🎨 My Creative Practice
 ======
