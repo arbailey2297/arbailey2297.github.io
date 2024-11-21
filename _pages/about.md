@@ -20,7 +20,7 @@ I have a PhD in Art History and Visual Culture from York University (Toronto), w
 My current research fits loosely into three distinct categories
 * Producing a digital archive and corresponding monograph focused on [Maddy Thorson](https://en.wikipedia.org/wiki/Maddy_Thorson), the Canadian independent game developer best known for the award-winning platformer <i>Celeste</i> (EXOK Games, 2018).
 * Writing articles on [the Haunted PS1 game development community](https://the-official-haunted-ps1.fandom.com/wiki/The_Official_Haunted_PS1_Wiki) and the nostalgic low-poly horror aesthetics that they produce. This research has largely been conducted with my collaborator [Patrick Dolan](https://www.linkedin.com/in/patrick-r-dolan/) (York University).
-* Exploring the various ways that videogames relate to real-world archives and art historical artifacts through examples such as [historical folk horror games](https://arbailey2297.github.io/publication/devious-archive).
+* Exploring the various ways that videogames relate to real-world archives and art historical artifacts through examples such as [historical folk horror games](https://arbailey2297.github.io/publication/devious-archive) and [fictional recreations of Nam June Paik's artwork](https://arbailey2297.github.io/publication/half-light-histories).
 
 🗂️ My Professional Background
 ======
