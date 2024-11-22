@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/spekwork-counterarchive
 excerpt: ''
 date: 2025-02-01
-venue: ''
+venue: 'The Video Game Art Reader'
 paperurl: ''
 citation: ''
 ---
