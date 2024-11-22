@@ -24,7 +24,7 @@ author:
   avatar           : "abailey_headshot_01.png"
   name             : "Andrew Remington Bailey"
   pronouns         : "he/him"  
-  bio              : "SSHRC Postdoctoral Fellow with the Technoculture, Art and Games Research Centre at Concordia University.<br><br>Lecturer teaching games, media, and history at York, McMaster, and OCAD University."
+  bio              : "SSHRC Postdoctoral Fellow with the Technoculture, Art and Games Research Lab at Concordia University.<br><br>Lecturer teaching games, media, and history at York, McMaster, and OCAD University."
   location         : "Toronto"
   employer         : "Concordia University"
   uri              : # URL
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # URL
+  bluesky          : https://bsky.app/profile/andrewrbailey.bsky.social
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
