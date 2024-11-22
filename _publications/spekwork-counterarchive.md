@@ -2,14 +2,13 @@
 title: " The Counter-Archival Potential of SpekWork’s Assassin’s Creed Art History (forthcoming)"
 collection: publications
 permalink: /publication/spekwork-counterarchive
-excerpt: 'This paper analyzes SpekWork's Games and Guildworkers and Blindspot as examples of counter-archival game art, proposing this framework as a novel critical tool for the field of game studies. These projects reconfigure elements of the Assassin's Creed franchise, critiquing its historical claims while exposing capitalist and colonial power structures.'
+excerpt: ''
 date: 2025-02-01
-venue: 'The VGA Reader'
+venue: ''
 paperurl: ''
-citation: 'Bailey, A. (2025).“The Counter-Archival Potential of SpekWork’s Assassin’s Creed Art History.” In <i>The Video Game Art Reader</i>, Volume 5, The VGA Gallery and Amherst College Press.'
+citation: ''
 ---
 
-<b>Abstract:</b> This paper analyzes SpekWork's Games and Guildworkers and Blindspot as examples of counter-archival game art, proposing this framework as a novel critical tool for the field of game studies. These projects reconfigure elements of the Assassin's Creed franchise, critiquing its historical claims while exposing capitalist and colonial power structures. By examining how historical videogames can function as interactive archives and interrogating their limitations, SpekWork challenges traditional evaluations of historical accuracy in games, emphasizing their role in shaping broader cultural and political narratives. Ultimately, this paper argues how counter-archival theory can reveal games as complex artifacts entangled with paratextual media and material production contexts, fostering a more inclusive understanding of their intersections with history and power.
-.
+<b>Abstract:</b>
 
-<b>Keywords:</b> Assassin's Creed, historical game studies, game art, art games, archives, SpekWork 
+<b>Keywords:</b>
