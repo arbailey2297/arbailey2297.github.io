@@ -1,5 +1,5 @@
 ---
-title: " The Counter-Archival Potential of SpekWork’s Assassin’s Creed Art History (forthcoming)"
+title: "⛪ The Counter-Archival Potential of SpekWork’s Assassin’s Creed Art History (forthcoming)"
 collection: publications
 permalink: /publication/spekwork-counterarchive
 excerpt: ''
