@@ -1,5 +1,5 @@
 ---
-title: "⛪ The Counter-Archival Potential of SpekWork’s Assassin’s Creed Art History (forthcoming)"
+title: " The Counter-Archival Potential of SpekWork’s Assassin’s Creed Art History (forthcoming)"
 collection: publications
 permalink: /publication/spekwork-counterarchive
 excerpt: 'This paper analyzes SpekWork's Games and Guildworkers and Blindspot as examples of counter-archival game art, proposing this framework as a novel critical tool for the field of game studies. These projects reconfigure elements of the Assassin's Creed franchise, critiquing its historical claims while exposing capitalist and colonial power structures.'
