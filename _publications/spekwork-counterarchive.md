@@ -2,7 +2,7 @@
 title: "⛪ The Counter-Archival Potential of SpekWork’s Assassin’s Creed Art History (forthcoming)"
 collection: publications
 permalink: /publication/spekwork-counterarchive
-excerpt: 'In this paper, I comparatively analyze SpekWork's Assassin's Creed Art History series of essayistic art games through the lens of historical game studies scholarship on interactive archives. I also work to introduce the theory of counter-archival art as a useful tool for the field of game studies to use when examining historically-focused art games and game art'
+excerpt: 'In this paper, I comparatively analyze SpekWork's Assassin's Creed Art History series of essayistic art games through the lens of historical game studies scholarship on interactive archives. I also work to introduce the theory of counter-archival art as a useful tool for the field of game studies to use when examining historically-focused art games and game art.'
 date: 2025-02-01
 venue: 'The Video Game Art Reader'
 paperurl: ''
