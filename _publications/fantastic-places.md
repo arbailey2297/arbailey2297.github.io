@@ -13,5 +13,5 @@ citation: 'Bailey, A. (2018). “Fantastic places and where to find them: Pseudo
 
 <b>Keywords:</b> Jakob Kudsk Steensen, Primal Tourism, ecomimesis, virtual tourism, virtual reality, game art
 
-Direct link to my paper within the volume: https://www.fulcrum.org/epubs/6395w982v?locale=en#page=39
+[Direct link to my paper within the volume](https://www.fulcrum.org/epubs/6395w982v?locale=en#page=399)
 
