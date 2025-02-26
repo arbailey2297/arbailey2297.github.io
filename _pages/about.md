@@ -27,9 +27,9 @@ My current research fits loosely into three distinct categories
 Outside of my scholarly research and teaching work, I also have significant work experience in the following areas:
 * Arts administration, programming, and exhibition design with several Toronto commercial galleries and artist-run centres
 * Editing for multiple academic arts/media journals
-* Studio assistance for a professional visual artist, helping to prepare work for international solo exhibitions at commercial art galleries
+* Studio assistance for a professional visual artist, helping to prepare work for international exhibitions and writing grant applications
 * Freelance graphic and web design, creating event posters, album covers, book layouts, websites, t-shirt designs, editorial illustrations, etc.
-* Print production in commercial textile screenprinting and fine art giclée printing studios
+* Print production in screenprinting and giclée printmaking studios
 
 🎨 My Creative Practice
 ======
