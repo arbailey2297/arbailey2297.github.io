@@ -7,6 +7,8 @@ author_profile: true
 <br><br>
 <img src='arbailey2297.github.io/images/book-mockup-spin.gif' width='764'/>
 <br><br>
+<img src="{{site.baseurl | prepend: site.url}}images/book-mockup-spin.gif" alt="book" />
+<br><br>
 
 # 🖼️ Curation
 
