@@ -5,9 +5,7 @@ author_profile: true
 ---
 *This page represents my ongoing creative practice and contains a small selection of my curatorial, graphic design, digital art, and game development work.
 <br><br>
-<img src='arbailey2297.github.io/images/book-mockup-spin.gif' width='764'/>
-<br><br>
-<img src="{{site.baseurl | prepend: site.url}}images/book-mockup-spin.gif" alt="book" />
+<img src='https://github.com/arbailey2297/arbailey2297.github.io/blob/master/images/book-mockup-spin.gif?raw=true' />
 <br><br>
 
 # 🖼️ Curation
