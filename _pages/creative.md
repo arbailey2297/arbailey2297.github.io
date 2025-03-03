@@ -5,7 +5,7 @@ author_profile: true
 ---
 *This page represents my ongoing creative practice and contains a small selection of my curatorial, graphic design, digital art, and game development work.
 <br><br>
-<img src="images/book-mockup-spin.gif" width='764'/>
+<img src="/images/book-mockup-spin.gif" width='764'/>
 <br><br>
 
 # 🖼️ Curation
