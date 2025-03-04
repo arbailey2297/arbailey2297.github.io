@@ -12,7 +12,7 @@ As part of my current SSHRC postdoctoral research project, I am working on a mon
 
 <img src='https://github.com/arbailey2297/arbailey2297.github.io/blob/master/images/Untitled%20design.gif?raw=true' width="764" />
 
-The other half of my SSHRC postdoc consists of using the open-source tool CollectionBuilder to produce a pedagogically-oriented digital archive of paratexts related to the award-winning game <i>Celeste</i> (Maddy Makes Games, 2018) and the career of its director, writer, and co-programmer, Maddy Thorson. Featuring an emotional narrative about a trans woman’s mental health struggles, Celeste has fostered a vibrant queer fan community of speedrunners, modders, and artists. By assembling an archive of paratexts (Steam reviews, YouTube essays, custom levels, mods, speedruns, and demakes) produced by these communities alongside a variety of developer-created material, one of my project’s primary goals is to provide a tool for game studies scholars to easily teach Canadian indie game history and queer development and fan cultures. This archive is currently under development and an initial prototype will be published in late 2025 or early 2026.
+The other half of my SSHRC postdoc consists of using the open-source tool <b>CollectionBuilder</b> to produce a pedagogically-oriented digital archive of paratexts related to the award-winning game <b><i>Celeste</i></b> (Maddy Makes Games, 2018) and the career of its director, writer, and co-programmer, <b>Maddy Thorson</b>. Featuring an emotional narrative about a trans woman’s mental health struggles, Celeste has fostered a vibrant queer fan community of speedrunners, modders, and artists. By assembling an archive of paratexts (Steam reviews, YouTube essays, custom levels, mods, speedruns, and demakes) produced by these communities alongside a variety of developer-created material, one of my project’s primary goals is to provide a tool for game studies scholars to easily teach Canadian indie game history and queer development and fan cultures. This archive is currently under development and an initial prototype will be published in late 2025 or early 2026.
 
 <img src='/images/Untitled-1.png' width='764'/>
 
@@ -30,7 +30,7 @@ Below is a photograph of a recent exhibition I coordinated and produced at the [
 
 A selection of promotional assets (posters, slides, social media content, etc.) that I have either directly designed or provided art direction for as a part of my time working as the Knowledge Mobilization Officer for the SSHRC Partnership Grant project [<b>Archive/Counter-Archive</b>](https://counterarchive.ca/welcome).<br/>
 
-<img src='/images/Archival-futures_promo-final.png' width='382'/><img src='/images/GAVA_square_ACA-website_800_2.png' width='382'/> <br/><img src='/images/Outer Worlds _1920x1080.png' width='764'/><br/><img src='/images/ACA_student-mixer.jpg.jpg' width='764'/><br/>
+<img src='/images/Archival-futures_promo-final.png' width='382'/><img src='/images/GAVA_square_ACA-website_800_2.png' width='382'/> <br/><img src='/images/Outer Worlds _1920x1080.png' width='764'/><br/>
 
 These are a couple of posters that I created for screenings that were curated by [<b>ANGURA!</b>](https://angura.tumblr.com/), a Japanese experimental art/film collective that programs screenings/exhibitions in Toronto, Winnipeg, and Montreal.
 
