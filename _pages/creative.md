@@ -14,7 +14,7 @@ As part of my current SSHRC postdoctoral research project, I am working on a mon
 
 The other half of my SSHRC postdoc consists of using the open-source tool CollectionBuilder to produce a pedagogically-oriented digital archive of paratexts related to the award-winning game <i>Celeste</i> (Maddy Makes Games, 2018) and the career of its director, writer, and co-programmer, Maddy Thorson. Featuring an emotional narrative about a trans woman’s mental health struggles, Celeste has fostered a vibrant queer fan community of speedrunners, modders, and artists. By assembling an archive of paratexts (Steam reviews, YouTube essays, custom levels, mods, speedruns, and demakes) produced by these communities alongside a variety of developer-created material, one of my project’s primary goals is to provide a tool for game studies scholars to easily teach Canadian indie game history and queer development and fan cultures. This archive is currently under development and an initial prototype will be published in late 2025 or early 2026.
 
-<img src='images/Untitled-1.png' width='764'/>
+<img src='/images/Untitled-1.png' width='764'/>
 
 # 🖼️ Curation
 
