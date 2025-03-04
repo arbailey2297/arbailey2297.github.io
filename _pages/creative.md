@@ -16,7 +16,7 @@ The other half of my SSHRC postdoc consists of using the open-source tool <b>Col
 
 <img src='/images/Untitled-1.png' width='764'/><br><br>
 
-# 🖼️ Curation
+# 🖼️ Media Art Curation
 
 Below are photographs from a recent exhibition I curated at <b>PAVED Arts</b> in Saskatoon in Summer 2023 titled [<b><i>Object Gardens</i></b>](https://www.pavedarts.ca/programming/object-gardens/). Participating artists included Guggenheim fellow [<b>Peter Burr</b>](https://www.peterburr.org/) (USA), 2018 EQ Bank Emerging Digital Artist Award winner [<b>Anna Eyler</b>](http://aenl.net/) and her partner and collaborator [<b>Nicolas Lapointe</b>](http://aenl.net/) (CAD), and Venice Biennale-presenting artist [<b>Jakob Kudsk Steensen</b>](https://www.jakobsteensen.com/) (DNK).<br><br> [<b>Click here to see more photos and read the curatorial essay for the exhibition that was published in PAVED Meant Vol 5(2024)</b>.](https://arbailey2297.github.io/files/object-gardens%20essay.pdf)
 
@@ -26,7 +26,7 @@ Below is a photograph of a recent exhibition I coordinated and produced at the [
 
 <img src='/images/margaret-perry-aoo.png' width='764'/><br><br>
 
-# 📐 Design
+# 📐 Graphic Design
 
 A selection of promotional assets (posters, slides, social media content, etc.) that I have either directly designed or provided art direction for as a part of my time working as the Knowledge Mobilization Officer for the SSHRC Partnership Grant project [<b>Archive/Counter-Archive</b>](https://counterarchive.ca/welcome).<br/>
 
@@ -36,7 +36,7 @@ These are a couple of posters that I created for screenings that were curated by
 
 <img src='/images/film-fort-posters.png' width='764'/><br/><br>
 
-# 👨‍💻Digital Art
+# 👨‍💻 Game Development
 A selection of digital studies and experiments that I have made while teaching myself new art and game development programs.<br/>
 
 <img src='/images/junktown.png' width='382'/><img src='/images/sewar-sketch_crop_02.png' width='382'/><br/><img src='/images/lowpoly-mushroom_sketchbook_02.png' width='764'/><br/><img src='/images/maximalfantasy_crop_01.png' width='382'/><img src='/images/chess-crop_01.png' width='382'/><br>
