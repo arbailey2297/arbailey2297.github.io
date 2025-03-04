@@ -3,7 +3,7 @@ permalink: /creative/
 title: "Projects"
 author_profile: true
 ---
-This page contains information on many of my current scholarly and artistic research projects. Below you will find specific information and links related to my "Playful Records" SSHRC postdoctoral project and my curatorial, design, game dev, and media arts practices.
+<i>This page contains information on many of my current scholarly and artistic research projects. Below you will find specific information and links related to my "Playful Records" SSHRC postdoctoral project and my curatorial, design, game dev, and media arts practices.</i>
 
 # 🗃️ Playful Records
 
