@@ -1,8 +1,9 @@
 ---
 permalink: /creative/
-title: "Portfolio"
+title: "Projects"
 author_profile: true
 ---
+This page contains information on many of my current scholarly and artistic research projects. Below you will find specific information and links related to my "Playful Records" SSHRC postdoctoral project and my curatorial, design, game dev, and media arts practices.
 
 # 🗃️ Playful Records
 
@@ -25,7 +26,7 @@ Below is a photograph of a recent exhibition I coordinated at the [<b>Archives o
 <img src='/images/margaret-perry-aoo.png' width='764'/><br><br>
 
 # 🧊 3D Modelling
-As part of my ongoing research into [<b>the Haunted PS1 independent game development community</b>](https://arbailey2297.github.io/publication/ghastly-graphics) and the low-poly 3D modelling and chunky photo-based texturing it is known for, I have been slowly creating a collection of similar low-poly game assets in Blender. My selection of objects to model is also informed by my ongoing interest in [<b>ecocritical game art</b>](https://arbailey2297.github.io/publication/object-gardens) and [<b>how games like Animal Crossing have approached collecting as a game mechanic</b>](https://arbailey2297.github.io/publication/killing-jar). In keeping with my interest in game archives, I am also planning on submitting this collection once it is done to [<b>Miziziziz'z "The Big Collection of Commercially Usable Retro 3D Style Assets."</b>](https://github.com/Miziziziz/Retro3DGraphicsCollection?tab=readme-ov-file]<br/>
+As part of my ongoing research into [<b>the Haunted PS1 independent game development community</b>](https://arbailey2297.github.io/publication/ghastly-graphics) and the low-poly 3D modelling and chunky photo-based texturing it is known for, I have been slowly creating a collection of similar low-poly game assets in Blender. My selection of objects to model is also informed by my ongoing interest in [<b>ecocritical game art</b>](https://arbailey2297.github.io/publication/object-gardens) and [<b>how games like Animal Crossing have approached collecting as a game mechanic</b>](https://arbailey2297.github.io/publication/killing-jar). In keeping with my interest in game archives, I am also planning on submitting this collection once it is done to [<b>Miziziziz'z "The Big Collection of Commercially Usable Retro 3D Style Assets."</b>](https://github.com/Miziziziz/Retro3DGraphicsCollection?tab=readme-ov-file)<br/>
 
 <img src='/images/lowpoly-mushroom_sketchbook_02.png' width='764'/><br/><img src='/images/golden stage beetle 3d.png' width='764'/><br/>
 
