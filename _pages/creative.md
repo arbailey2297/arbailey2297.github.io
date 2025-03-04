@@ -5,8 +5,12 @@ author_profile: true
 ---
 *This page represents my ongoing creative practice and contains a small selection of my curatorial, graphic design, digital art, and game development work.
 <br><br>
+
+# 🗃️ Playful Records
+
+As part of my current SSHRC postdoctoral research project, I am working on a monograph titled <b><i>Playful Records: Counter-Archival Game Art and Videogame Collections</i></b> that is under contract with Amsterdam University Press for its “Games and Play” series. This book is heavily informed by the curatorial and archival research I conducted during my previous Mitacs Accelerate postdoc with the SSHRC Partnership Grant project, Archive/Counter-Archive (A/CA).
+
 <img src='https://github.com/arbailey2297/arbailey2297.github.io/blob/master/images/Untitled%20design.gif?raw=true' width="764" />
-<br><br>
 
 # 🖼️ Curation
 
