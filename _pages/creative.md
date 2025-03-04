@@ -29,7 +29,7 @@ Below is a photograph of a recent exhibition I coordinated and produced at the [
 # 🧊 3D Modelling
 As part of my ongoing research into the Haunted PS1 independent game development community and the low-poly 3D modelling and chunky photo-based texturing it is known for, I have been slowly creating a collection of similar low-poly game assets. My selection of objects to model is also informed by my ongoing interest in ecocritical game art and how games like Animal Crossing have approached collecting as a game mechanic. In keeping with my interest in game archives, I am also planning on submitting this collection once it is done to Miziziziz'z "The Big Collection of Commercially Usable Retro 3D Style Assets."<br/>
 
-<img src='/images/lowpoly-mushroom_sketchbook_02.png' width='764'/><br/><img src='/images/images/golden stage beetle 3d.png' width='764'/><br/>
+<img src='/images/lowpoly-mushroom_sketchbook_02.png' width='764'/><br/><img src='/images/golden stage beetle 3d.png' width='764'/><br/>
 
 # 📐 Graphic Design
 
