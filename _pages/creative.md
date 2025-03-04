@@ -27,7 +27,7 @@ Below is a photograph of a recent exhibition I coordinated and produced at the [
 <img src='/images/margaret-perry-aoo.png' width='764'/><br><br>
 
 # 🧊 3D Modelling
-As part of my ongoing research into the Haunted PS1 independent game development community and the low-poly 3D modelling and chunky photo-based texturing it is known for, I have been slowly creating a collection of similar low-poly game assets. My selection of objects to model is also informed by my ongoing interest in ecocritical game art and how games like Animal Crossing have approached collecting as a game mechanic. In keeping with my interest in game archives, I am also planning on submitting this collection once it is done to Miziziziz'z "The Big Collection of Commercially Usable Retro 3D Style Assets."<br/>
+As part of my ongoing research into <b>the Haunted PS1 independent game development community</b> and the low-poly 3D modelling and chunky photo-based texturing it is known for, I have been slowly creating a collection of similar low-poly game assets in Blender. My selection of objects to model is also informed by my ongoing interest in <b>ecocritical game art</b> and <b>how games like Animal Crossing have approached collecting as a game mechanic</b>. In keeping with my interest in game archives, I am also planning on submitting this collection once it is done to <b>Miziziziz'z "The Big Collection of Commercially Usable Retro 3D Style Assets."</b><br/>
 
 <img src='/images/lowpoly-mushroom_sketchbook_02.png' width='764'/><br/><img src='/images/golden stage beetle 3d.png' width='764'/><br/>
 
@@ -39,7 +39,7 @@ A selection of promotional assets (posters, slides, social media content, etc.) 
 
 These are a couple of posters that I created for screenings that were curated by [<b>ANGURA!</b>](https://angura.tumblr.com/), a Japanese experimental art/film collective that programs screenings/exhibitions in Toronto, Winnipeg, and Montreal.
 
-<img src='/images/film-fort-posters.png' width='764'/><br/><br>
+<img src='/images/film-fort-posters.png' width='764'/>
 
 <!-- This is commented out. 
 # ✍️Drawings, Prints, and Zines
