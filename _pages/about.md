@@ -18,21 +18,24 @@ I have a PhD in Art History and Visual Culture from York University (Toronto), w
 🎮 My Current Research
 ======
 My current research fits loosely into three distinct categories. You can find more detail on [my Publications page.](https://arbailey2297.github.io/publications/)
-* Producing a pedagogically-oriented digital archive focused on [Maddy Thorson](https://en.wikipedia.org/wiki/Maddy_Thorson), the Canadian independent game developer best known for the award-winning platformer <i>Celeste</i> (EXOK Games, 2018).
-* Writing articles on [the Haunted PS1 game development community](https://arbailey2297.github.io/publication/ghastly-graphics) and the nostalgic low-poly horror aesthetics that they produce. This research has often been conducted with my collaborator [Patrick Dolan](https://www.linkedin.com/in/patrick-r-dolan/) (York University/Toronto Metropolitan University).
 * Writing a monograph that explores the various ways that videogames engage with real-world archives and art historical artifacts through examples such as [historical folk horror games](https://arbailey2297.github.io/publication/devious-archive) and [fictional recreations of Nam June Paik's artwork](https://arbailey2297.github.io/publication/half-light-histories).
+* Producing a pedagogically-oriented digital archive of paratexts related to Canadian queer indie game <i>Celeste</i> (EXOK Games, 2018) and its director, writer, and co-porgrammer [Maddy Thorson](https://en.wikipedia.org/wiki/Maddy_Thorson).
+* Writing articles on [the Haunted PS1 game development community](https://arbailey2297.github.io/publication/ghastly-graphics) and the nostalgic low-poly horror aesthetics that they produce. This research has often been conducted with my collaborator [Patrick Dolan](https://www.linkedin.com/in/patrick-r-dolan/) (York University/Toronto Metropolitan University).
+
 
 🎨 My Creative Practice
 ======
 I am a formally trained printmaker and curator and have also taught myself a number of skills related to digital art and game development. I currently have expertise and/or am in the process of learning the following tools, techniques, and programs. More info on my creative practice can be found on [my Projects page](https://arbailey2297.github.io/projects/].
 * Digital drawing and collage in Photoshop and GIMP
-* RenPy-based game development and Python coding
-* Unity-based game development and C# coding
-* Twine and Bitsy-based game development and HTML coding
-* 3D modeling in Blender
-* Pixel art using Aesprite and Playscii
-* Flat-colour and halftone CMYK screen-printing
-* Zine-making and book arts
+* RenPy and Python
+* Unity and C#
+* Twine, Bitsy, and HTML
+* RPG Maker and Javascript
+* 3D animation in Blender
+* 2D animation in DragonBones
+* Pixel art in Aesprite
+* ASCII art in Playscii
+* Screen-printing and zine-making
 
 🗂️ My Professional Background
 ======
