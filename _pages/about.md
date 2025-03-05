@@ -19,13 +19,13 @@ I have a PhD in Art History and Visual Culture from York University (Toronto), w
 ======
 My current research fits loosely into three distinct categories. You can find more detail on [my Publications page.](https://arbailey2297.github.io/publications/)
 * Writing a monograph that explores the various ways that videogames engage with real-world archives and art historical artifacts through examples such as [historical folk horror games](https://arbailey2297.github.io/publication/devious-archive) and [fictional recreations of Nam June Paik's artwork](https://arbailey2297.github.io/publication/half-light-histories).
-* Producing a pedagogically-oriented digital archive of paratexts related to Canadian queer indie game <i>Celeste</i> (EXOK Games, 2018) and its director, writer, and co-porgrammer [Maddy Thorson](https://en.wikipedia.org/wiki/Maddy_Thorson).
-* Writing articles on [the Haunted PS1 game development community](https://arbailey2297.github.io/publication/ghastly-graphics) and the nostalgic low-poly horror aesthetics that they produce. This research has often been conducted with my collaborator [Patrick Dolan](https://www.linkedin.com/in/patrick-r-dolan/) (York University/Toronto Metropolitan University).
+* Producing a pedagogically-oriented digital archive of paratexts and corresponding publications related to the Canadian queer indie game <i>Celeste</i> (EXOK Games, 2018) and its director, writer, and co-porgrammer [Maddy Thorson](https://en.wikipedia.org/wiki/Maddy_Thorson).
+* Writing articles on how retro independent horror game development is comprised of novel communities of practice and tool fandoms through examples such as [the Haunted PS1 Render Pipeline community](https://arbailey2297.github.io/publication/ghastly-graphics) and Lilith Walthers' [<i>Bloodborne PSX Demake</i>](https://arbailey2297.github.io/publication/bloodborne-psx).
 
 
 🎨 My Creative Practice
 ======
-I am a formally trained printmaker and curator and have also taught myself a number of skills related to digital art and game development. I currently have expertise and/or am in the process of learning the following tools and programs. More info on my creative practice can be found on [my Projects page](https://arbailey2297.github.io/projects/].
+I am a formally trained printmaker and curator and have also taught myself a number of skills related to digital art and game development. I currently have expertise and/or am in the process of learning the following tools and programs. More info on my creative practice can be found on [my Projects page](https://arbailey2297.github.io/projects/).
 * Digital drawing and collage in Photoshop and GIMP
 * RenPy and Python
 * Unity and C#
