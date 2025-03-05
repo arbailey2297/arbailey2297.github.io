@@ -11,7 +11,7 @@ I am an interdisciplinary scholar, curator, and artist working out of Toronto, C
 
 I am currently a SSHRC Postdoctoral Fellowship with the [Technoculture, Art, and Games Research Lab](https://tag.hexagram.ca/) at Concordia University with a project focused on devising new theoretical frameworks and research-creation methods for exploring the relationship between videogames, art, history, and archives. 
 
-I also have worked as a sessional instructor at OCAD University, McMaster University, and York University, teaching various courses related to game studies, critical archival studies, communications, film and media studies, and art history.
+I also have worked as a sessional instructor at OCAD University, McMaster University, and York University, teaching various courses related to game studies, critical archival studies, communications, film and media studies, and art history. You can find more details on [my Teaching page](https://arbailey2297.github.io/teaching/).
 
 I have a PhD in Art History and Visual Culture from York University (Toronto), with a dissertation focused on [how videogames were defined and exhibited as art throughout the 2000s and 2010s](https://yorkspace.library.yorku.ca/server/api/core/bitstreams/79982f61-383e-4dd8-b02f-02d349f093c3/content). 
 
