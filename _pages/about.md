@@ -25,7 +25,7 @@ My current research fits loosely into three distinct categories. You can find mo
 
 🎨 My Creative Practice
 ======
-I am a formally trained printmaker and curator and have also taught myself a number of skills related to digital art and game development. I currently have expertise and/or am in the process of learning the following tools, techniques, and programs. More info on my creative practice can be found on [my Projects page](https://arbailey2297.github.io/projects/].
+I am a formally trained printmaker and curator and have also taught myself a number of skills related to digital art and game development. I currently have expertise and/or am in the process of learning the following tools and programs. More info on my creative practice can be found on [my Projects page](https://arbailey2297.github.io/projects/].
 * Digital drawing and collage in Photoshop and GIMP
 * RenPy and Python
 * Unity and C#
