@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary scholar, curator, and artist working out of Toronto in Canada. 
+I am an interdisciplinary scholar, curator, and artist working out of Toronto, Canada. 
 
 I am currently a SSHRC Postdoctoral Fellowship with the [Technoculture, Art, and Games Research Lab](https://tag.hexagram.ca/) at Concordia University with a project focused on devising new theoretical frameworks and research-creation methods for exploring the relationship between videogames, art, history, and archives. 
 
