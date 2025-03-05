@@ -25,10 +25,17 @@ Below is a photograph of a recent exhibition I coordinated at the [<b>Archives o
 
 <img src='/images/margaret-perry-aoo.png' width='764'/><br><br>
 
+# 👨‍💻 Game Dev
+To complement my game studies research on various aspects of independent game development, I also engage in small game development projects in my spare time. These are often centred around informal and grassroots engines that have what [Stefan Werning has referred to as "tool fandoms"](https://books.google.ca/books?id=YM_tDwAAQBAJ&lpg=PR7&ots=YLmKqFDVFN&dq=%22tool%20fandom%22%20games&lr&pg=PA51#v=onepage&q=%22tool%20fandom%22%20games&f=false) that have formed around them.
+
+The first of my current game dev projects is a side-scrolling card battler RPG tentatively called <i>Mold Ant Hole</i> that I am creating using [RPG Maker MV](https://store.steampowered.com/app/363890/RPG_Maker_MV/) and [MythAtelier's Card Combat](https://mythatelier.itch.io/card-game-combat) and [SideMV's Basic Side-Scroller plugins](https://sidemv.itch.io/sidemv-sidescroller). A lot of the character design and overall aesthetics of this game have been inspired by Canadian comic artist Michael Deforge's <i>Ant Colony</i> and "Canadian Royalty" (from <i>Lose #4</i>).
+
+<img src='/images/mold ant hole - battle.png' width='764'/><br/>
+
 # 🧊 3D Modelling
 As part of my ongoing research into [<b>the Haunted PS1 independent game development community</b>](https://arbailey2297.github.io/publication/ghastly-graphics) and the low-poly 3D modelling and chunky photo-based texturing it is known for, I have been slowly creating a collection of similar low-poly game assets in Blender. My selection of objects to model is also informed by my ongoing interest in [<b>ecocritical game art</b>](https://arbailey2297.github.io/publication/object-gardens) and [<b>how games like Animal Crossing have approached collecting as a game mechanic</b>](https://arbailey2297.github.io/publication/killing-jar). In keeping with my interest in game archives, I am also planning on submitting this collection once it is done to [<b>Miziziziz'z "The Big Collection of Commercially Usable Retro 3D Style Assets."</b>](https://github.com/Miziziziz/Retro3DGraphicsCollection?tab=readme-ov-file)<br/>
 
-<img src='/images/lowpoly-mushroom_sketchbook_02.png' width='764'/><br/><img src='/images/golden stage beetle 3d.png' width='764'/><br/>
+<img src='/images/lowpoly-mushroom_sketchbook_02.png' width='764'/><br/><img src='/images/golden stage beetle 3d.png' width='764'/><br/><br>
 
 # 📐 Graphic Design
 
