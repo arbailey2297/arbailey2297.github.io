@@ -1,5 +1,5 @@
 ---
-title: "🐙 Cosmic Canvases: The Lovecraftian Legacy of Giger and Beksiński in Scorn and Indie Horror Game Design"
+title: "🐙 Cosmic Canvases: The Lovecraftian Legacy of Giger and Beksiński in Scorn and Indie Horror Game Design (forthcoming)"
 collection: publications
 permalink: /publication/cosmic-canvases
 excerpt: 'This is an upcoming chapter that examines a growing trend where indie horror game developers are appropriating the iconography and visual style of visual artists who have been historically associated with cosmic horror and weird fiction. I align this practice with the legacy of the games-as-art debate and scholarship on the cultural legitimation of games as well as research on how aesthetic genres are defined and changed over time.'
