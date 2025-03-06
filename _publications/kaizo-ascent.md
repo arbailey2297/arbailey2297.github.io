@@ -2,7 +2,7 @@
 title: "⛰️ Kaizo Ascent: Celeste and Difficult Level Design as Community Practice. (forthcoming)"
 collection: publications
 permalink: /publication/kaizo-ascent
-excerpt: ''
+excerpt: 'This chapter explores the mutual influence between Celeste''s developers and the Kaizo ROM hacking community, highlighting how their shared practices of modding, speedrunning, and open-source development contribute to the evolution of the precision platformer genre. It argues that examining these community-driven design practices reveals how fan creativity shapes commercial game development, fostering dynamic relationships between developers and niche player communities.'
 date: 2025-12-12
 venue: 'The Effects of Community on Game Play and Design'
 paperurl: ''
