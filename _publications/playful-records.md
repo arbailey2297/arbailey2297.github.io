@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/playful-records
 excerpt: 'This book project argues that counter-archival theory offers a novel and necessary framework for game studies, providing tools to critically examine how historically focused art games and game art challenge dominant narratives in both gaming culture and traditional history. It further asserts that counter-archival theory expands discussions of videogame archives by addressing how race, gender, sexuality, and colonialism shape the historical infrastructure of these collections, offering decolonial, feminist, queer, and anticapitalist perspectives alongside existing media archeological methods.'
 date: 2025-12-31
-venue: ''
+venue: 'Amsterdam University Press&aposs Games and Play series'
 paperurl: ''
 citation: 'Bailey, A. (2026). Playful Records: Counter-Archival Game Art and Videogame Collections. Amsterdam University Press.'
 ---
