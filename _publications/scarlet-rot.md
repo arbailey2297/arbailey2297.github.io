@@ -1,5 +1,5 @@
 ---
-title: "🍄 Scarlet Rot at the End of the World: Fans Searching for Mycological Authenticity within Elden Rings Cosmic Horror (forthcoming)"
+title: "aaaa"
 collection: publications
 permalink: /publication/scarlet-rot
 excerpt: 'This forthcoming chapter explores the lore-crafting community of Elden Ring and their use of realism, particularly through amateur mycological analysis, to enhance the game’s world-building, focusing on the Scarlet Rot blight and its fungal manifestations. By examining fan-produced paratexts, it reveals how these interpretations reflect broader cultural anxieties about decay, environmental collapse, and cosmic horror.'
