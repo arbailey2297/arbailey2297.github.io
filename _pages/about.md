@@ -39,7 +39,7 @@ I am a formally trained printmaker and curator and have also taught myself a num
 
 🗂️ My Professional Background
 ======
-Outside of my scholarly research and teaching work, I also have significant work experience in the following areas. You can find more detail by looking through [my CV.](https://arbailey2297.github.io/files/CV-Nov-2024.pdf)
+Outside of my scholarly research and teaching work, I also have significant work experience in the following areas. You can find more detail by looking through [my CV.](https://arbailey2297.github.io/files/CV_March%202025.pdf)
 * Arts administration and curatorial programming with several Toronto commercial galleries and artist-run centres
 * Editing for multiple academic arts/media journals
 * Studio assistance for a professional visual artist, helping to prepare work for international exhibitions and writing grant applications
