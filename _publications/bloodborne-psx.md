@@ -3,7 +3,7 @@ title: "🩸 Demade by the Blood: Bloodborne PSX at a crossroads of horror fando
 collection: publications
 permalink: /publication/bloodborne-psx
 excerpt: 'In early 2022, <i>Bloodborne PSX</i>, a demake of the original <i>Bloodborne</i>, captured the attention of media and fans by reimagining the game with PlayStation 1 aesthetics and gameplay. This chapter examines the intersection of Soulsborne and Haunted PS1 fandoms, exploring their shared appreciation for challenging gameplay and retro horror aesthetics, and investigates the fan response to <i>Bloodborne PSX</i> to uncover the dynamics within these communities.'
-date: 2024-12-29
+date: 2025-06-01
 venue: 'Researching Horror Fans and Audiences in the Twenty-First Century'
 paperurl: ''
 citation: 'Bailey, A., and Dolan, P. (2024). “Demade by the Blood: Bloodborne PSX at a crossroads of horror fandoms.” In <i>Researching Horror Fans and Audiences in the Twenty-First Century</i>, edited by James Rendell and Kate Egan, Edinburgh University Press'
