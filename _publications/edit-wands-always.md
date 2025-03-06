@@ -1,11 +1,11 @@
 ---
-title: "🧙‍♂️ Edit Wands Always: Experimentation, Modding, and Metagaming in Noita (forthcoming)"
+title: "🧙‍♂️ Edit Wands Always: Experimentation, Modding, and Metagaming in Noita"
 collection: publications
 permalink: /publication/edit-wands-always
 excerpt: 'In this chapter, I analyze the balance between difficulty and experimental customization in the roguelike game <i>Noita</i> and its popular mods. I argue that many players are more drawn to modifying their gameplay experience and spells than to the game&apos;s traditional challenge, highlighting the productive synergy between modding and in-game tinkering.'
 date: 2025-01-01
 venue: 'The Rise of the Roguelite: The Influence of Roguelikes on Contemporary Video Games'
-paperurl: ''
+paperurl: 'https://doi.org/10.1201/9781003415473'
 citation: 'Bailey, A. (2025).“Edit Wands Always: Experimentation, Modding, and Metagaming in Noita.” In <i>The Rise of the Roguelite: The Influence of Roguelikes on Contemporary Video Games</i>, edited by James Cartlidge, Bloomsbury.'
 ---
 
