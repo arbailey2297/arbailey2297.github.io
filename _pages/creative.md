@@ -7,7 +7,7 @@ author_profile: true
 
 # 🗃️ Playful Records
 
-As part of my current SSHRC postdoctoral research project, I am working on a monograph titled <i>Playful Records: Counter-Archival Game Art and Videogame Collections</i> that is under contract with [Amsterdam University Press for its “Games and Play” series](https://www.aup.nl/en/series/games-and-play). This book is heavily informed by the curatorial and archival research I conducted during my previous Mitacs Accelerate postdoc with the SSHRC Partnership Grant project, [Archive/Counter-Archive](https://counterarchive.ca/welcome). If there are no delays in finishing the manuscript or the review process, this book will likely be published in mid to late 2026.
+As part of my current SSHRC postdoctoral research project, I am working on a monograph titled <i>Playful Records: Counter-Archival Game Art and Videogame Collections</i> that is under contract with [Amsterdam University Press for its “Games and Play” series](https://www.aup.nl/en/series/games-and-play). This book is heavily informed by the curatorial and archival research I conducted during my previous Mitacs Accelerate postdoc with the SSHRC Partnership Grant project, [Archive/Counter-Archive](https://counterarchive.ca/welcome). If there are no delays in finishing the manuscript or the review process, this book is currently scheduled for publication in 2027.
 
 <img src='https://github.com/arbailey2297/arbailey2297.github.io/blob/master/images/Untitled%20design.gif?raw=true' width="764" />
 
